@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/2crYWTt';
+	var url_popup = 'http://topcom.com.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
